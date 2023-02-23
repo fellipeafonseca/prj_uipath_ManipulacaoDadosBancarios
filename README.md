@@ -11,7 +11,11 @@ Algumas melhorias que não foram feitas:
 
 
 Link do Vídeo de funcionamento do processo:
-https://user-images.githubusercontent.com/47412575/221008277-965c131b-dd27-4f88-b9f2-a23e241004bf.mp4
+
+
+
+
+https://user-images.githubusercontent.com/47412575/221008468-195bd908-b0df-4ca5-ae5c-750c3d841b9d.mp4
 
 
 
