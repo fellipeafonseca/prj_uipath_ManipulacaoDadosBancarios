@@ -1,12 +1,13 @@
-# prj_iprocess_teste
+# prj_iprocess_manipulacaoDadosBancarios
 Projeto Manipulação de Dados Bancários 
 
-Nome da Fila Utilizada: DadosBancariosClientes
+Projeto de manipulação de dados bancários, para analise de contas.
 
-Algumas melhorias que não foram feitas:
- - Assets no projeto.
- - Valor do RGB/Cor genérico.
- - Filtros mais rapidos no processo.
+Componentes utilizados:
+- Reframework;
+- Leitura e gravação em arquivo excel;
+- Tratamento de Exceção;
+- Leitura e Envio de E-mail.
 
 
 
